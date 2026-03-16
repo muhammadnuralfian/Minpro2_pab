@@ -65,6 +65,7 @@ Aplikasi menggunakan Supabase dengan tabel `service_schedules` untuk menyimpan d
 Pada gambar pertama ditampilkan halaman utama aplikasi **Jadwal Service Kendaraan** ketika belum ada data yang tersimpan di database. Di bagian tengah halaman terdapat teks **"Belum ada data"** yang menandakan bahwa daftar jadwal service masih kosong. Pada bagian kanan bawah terdapat tombol **Tambah** berbentuk Floating Action Button (FAB) yang digunakan untuk menambahkan jadwal service kendaraan baru. Tampilan halaman menggunakan background berwarna abu rokok agar tampilan lebih jelas dan tidak terlihat terlalu polos.
 
 ## Halaman Form Tambah Jadwal Service
+![image alt](https://github.com/muhammadnuralfian/Minpro2_pab/blob/5dce303ae2ca0de4b5e1e48f7233a75265b6c94e/Cuplikan%20layar%202026-03-16%20000924.png)
 Pada gambar kedua ditampilkan halaman **form untuk menambahkan jadwal service kendaraan**. Pengguna dapat mengisi beberapa informasi seperti **nama pemilik, plat nomor, jenis kendaraan, tanggal service, dan catatan tambahan** mengenai service kendaraan. Pada bagian tanggal service terdapat fitur **date picker** yang memudahkan pengguna memilih tanggal. Setelah semua data diisi, pengguna dapat menekan tombol **Simpan** untuk menyimpan data ke database Supabase sehingga data tersebut akan muncul pada daftar jadwal service.
 
 
