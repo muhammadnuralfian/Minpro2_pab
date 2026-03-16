@@ -74,5 +74,6 @@ Pada gambar kedua ditampilkan halaman **form untuk menambahkan jadwal service ke
 Pada gambar ketiga ditampilkan halaman **daftar jadwal service kendaraan** yang sudah tersimpan di database. Setiap data ditampilkan dalam bentuk **card** yang berisi informasi seperti **nama pemilik, plat nomor, jenis kendaraan, tanggal service, dan catatan**. Pada setiap card juga terdapat dua tombol aksi yaitu **edit** untuk memperbarui data yang sudah ada dan **hapus** untuk menghapus data jadwal service dari database.
 
 ## Dialog Konfirmasi Hapus
+![image alt](https://github.com/muhammadnuralfian/Minpro2_pab/blob/bcb83f9b7d987cd6484f4ee6bcba739bdd4ff03e/Cuplikan%20layar%202026-03-16%20001253.png)
 Pada gambar keempat ditampilkan **dialog konfirmasi penghapusan data** yang muncul ketika pengguna menekan tombol hapus pada salah satu data jadwal service. Dialog ini berfungsi untuk memastikan bahwa pengguna benar-benar ingin menghapus data tersebut sehingga tidak terjadi kesalahan penghapusan data. Di dalam dialog terdapat dua pilihan yaitu **Batal** untuk membatalkan proses penghapusan dan **Hapus** untuk melanjutkan penghapusan data dari database Supabase.
 
