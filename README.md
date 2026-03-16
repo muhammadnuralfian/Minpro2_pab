@@ -70,6 +70,7 @@ Pada gambar kedua ditampilkan halaman **form untuk menambahkan jadwal service ke
 
 
 ## Halaman Daftar Jadwal Service
+![image alt](https://github.com/muhammadnuralfian/Minpro2_pab/blob/0787fff5eea9e9ecb6515e250c6f137e9dff28dd/Cuplikan%20layar%202026-03-16%20001215.png)
 Pada gambar ketiga ditampilkan halaman **daftar jadwal service kendaraan** yang sudah tersimpan di database. Setiap data ditampilkan dalam bentuk **card** yang berisi informasi seperti **nama pemilik, plat nomor, jenis kendaraan, tanggal service, dan catatan**. Pada setiap card juga terdapat dua tombol aksi yaitu **edit** untuk memperbarui data yang sudah ada dan **hapus** untuk menghapus data jadwal service dari database.
 
 ## Dialog Konfirmasi Hapus
